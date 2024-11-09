@@ -1,4 +1,3 @@
-## Hi there 👋
 [![MasterHead](https://github.com/UnspecifiedCipher/UnspecifiedCipher/blob/main/banner.png)](https://github.com/UnspecifiedCipher)
 
 <!--
