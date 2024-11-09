@@ -1,6 +1,5 @@
 ## Hi there 👋
-[![MasterHead]](https://github.com/UnspecifiedCipher/UnspecifiedCipher/blob/main/banner.png)
-
+[![MasterHead](https://github.com/UnspecifiedCipher/UnspecifiedCipher/blob/main/banner.png)](https://github.com/UnspecifiedCipher)
 
 <!--
 **UnspecifiedCipher/UnspecifiedCipher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
