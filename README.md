@@ -6,6 +6,7 @@
 </h4>
 
 - 🌱 Actualmente estoy aprendiendo **Sistemas Operativos** y **Fundamentos de la Teoria de la Computacion**, ademas de profundizando en mis conocimientos sobre **Bases de Datos**.
+- 🔭 Actualmente no estoy trabajando en ningun proyecto pero estoy en proceso de investigar sobre el uso y funcionamiento de Wi-Fi para crear una herramienta que pueda hacer uso de alguna vulnerabilidad.
 - 📫 Informacion de contacto malemejoaquin@gmail.com
 
 <p align="center" height="100px" ><img src="https://github-readme-stats.vercel.app/api?username=joacomaleme&show_icons=true&theme=dark" alt="joacomaleme :: Profile Stats" /></p>
