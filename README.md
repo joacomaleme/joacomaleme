@@ -2,7 +2,7 @@
 
 ## Hola!
 <h4 align="center">
-  Soy Joaco, Estudiante de 4to a;o de la Licenciatura en Sistemas de la UNLP.
+  Soy Joaco, Estudiante de 4to año de la Licenciatura en Sistemas de la UNLP.
 </h4>
 
 - 🌱 Actualmente estoy aprendiendo **Sistemas Operativos** y **Fundamentos de la Teoria de la Computacion**, ademas de profundizando en mis conocimientos sobre **Bases de Datos**.
