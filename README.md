@@ -2,16 +2,16 @@
 
 ## Hola!
 <h4 align="center">
-  Soy Joaquin Malchansky, Estudiante de la Licenciatura en Sistemas de la UNLP.
+  Soy Joaco, Estudiante de 4to a;o de la Licenciatura en Sistemas de la UNLP.
 </h4>
 
-- 🌱 Actualmente estoy aprendiendo **Redes y Comunicaciones**
+- 🌱 Actualmente estoy aprendiendo **Sistemas Operativos** y **Fundamentos de la Teoria de la Computacion**, ademas de profundizando en mis conocimientos sobre **Bases de Datos**.
 - 📫 Informacion de contacto malemejoaquin@gmail.com
 
-<p align="center" height="100px" ><img src="https://github-readme-stats.vercel.app/api?username=UnspecifiedCipher&show_icons=true&theme=dark" alt="UnspecifiedCipher :: Profile Stats" /></p>
+<p align="center" height="100px" ><img src="https://github-readme-stats.vercel.app/api?username=joacomaleme&show_icons=true&theme=dark" alt="joacomaleme :: Profile Stats" /></p>
 
 <!--
-**UnspecifiedCipher/UnspecifiedCipher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joacomaleme/joacomaleme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
